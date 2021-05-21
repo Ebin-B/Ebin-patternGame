@@ -2,7 +2,11 @@ body {
   text-align: center;
   background-color: #011F3F;
 }
-
+#rules{
+  text-decoration: none;
+  color: #a7bbc7;
+  font-size: 30px;
+}
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
