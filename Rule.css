@@ -1,0 +1,25 @@
+body{
+  background-color: #fff5ab;
+}
+p{
+  font-size: 30px;
+  color: #afb9c8;
+}
+.heading{
+  font-size: 40px;
+  color: #ffcead;
+}
+.div-rule{
+  text-align: center;
+
+}
+.ruleList{
+ text-align: left;
+  text-decoration: none;
+  padding-left: 100px;
+  margin: 100px;
+  line-height: 2;
+  font-size: 20px;
+  color: #867ae9;
+  list-style-type: square;
+}
